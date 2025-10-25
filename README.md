@@ -55,7 +55,7 @@ El análisis reveló que los datos de Netflix poseen **patrones simples y consis
 
 ## 👨‍💻 Autor  
 
-**[Tu Nombre o Usuario de GitHub]**  
+**Daniel Alexnader Renteria Pino**  
 📫 *Si te gustó el proyecto, no olvides dejar una ⭐ en el repositorio.*  
 
 ---
